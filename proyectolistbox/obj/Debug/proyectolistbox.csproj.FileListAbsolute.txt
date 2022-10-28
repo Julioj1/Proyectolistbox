@@ -1,0 +1,11 @@
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\bin\Debug\proyectolistbox.exe.config
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\bin\Debug\proyectolistbox.exe
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\bin\Debug\proyectolistbox.pdb
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\obj\Debug\proyectolistbox.csproj.AssemblyReference.cache
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\obj\Debug\proyectolistbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\obj\Debug\proyectolistbox.proyectlistbox.resources
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\obj\Debug\proyectolistbox.Properties.Resources.resources
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\obj\Debug\proyectolistbox.csproj.GenerateResource.cache
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\obj\Debug\proyectolistbox.csproj.CoreCompileInputs.cache
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\obj\Debug\proyectolistbox.exe
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\proyectolistbox\proyectolistbox\obj\Debug\proyectolistbox.pdb
